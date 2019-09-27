@@ -1,0 +1,3 @@
+include ':app', 'OpenCV', ':scanlibrary'
+rootProject.name='DocumentScanner'
+include ':OpenCV'
